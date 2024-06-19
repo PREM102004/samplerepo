@@ -1,2 +1,2 @@
-basics for github
+the basics for github
 welcome to git
